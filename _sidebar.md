@@ -21,6 +21,6 @@
 
 - Developer Guide
 
-  - [Widgets](widgets.md)
+  - [Templates](dev-guide/templates.md)
   - [Shortcodes](shortcodes.md)
   - [Import/Export](import-export.md)
