@@ -17,6 +17,7 @@
   - [Shortcodes](user-guide/shortcodes.md)
   - [Import/Export](user-guide/import-export.md)
   - [Settings](user-guide/settings.md)
+  - [WooCommerce Integration](user-guide/woocommerce.md)
 
 - Developer Guide
 
