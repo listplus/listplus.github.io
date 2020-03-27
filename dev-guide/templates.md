@@ -18,6 +18,7 @@ The copied file will now override the ListPlus default template file.
 
 ## Overriding Templates via Hoook.
 ```php
+<?php
 function your_template( $file, $template ){
     $new_file = YOUR_PLUGIN_DIR.'/path/to/your/'.$template;
     return $new_file;

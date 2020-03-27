@@ -22,5 +22,5 @@
 - Developer Guide
 
   - [Templates](dev-guide/templates.md)
-  - [Shortcodes](shortcodes.md)
-  - [Import/Export](import-export.md)
+  - [Listing Fields](dev-guide/listing-fields.md)
+  - [Listing Display Items](dev-guide/listing-display.md)
