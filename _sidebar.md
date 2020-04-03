@@ -3,7 +3,7 @@
 - [Introduction](introduction.md)
   
 - User Guide
-
+  - [Installation](installation.md)
   - [Manage Listing Types](listing-type.md)
   - [Manage Listings](listing.md)
   - [Categories](categories.md)
