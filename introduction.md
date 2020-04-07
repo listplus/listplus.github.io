@@ -1,7 +1,9 @@
-## Build Unlimited Listing Directory. Fast & Simple.
+## Build Unlimited Listing Directory. 
+**Fast & Simple.**
 
 Listing Plus is a WordPress plugin that lets you build any kind of directory such as a community driven local business directory like Yelp.com, Google+ Places, or Yahoo! Local, a user directory, a website directory, a property directory, etc. It’s the most feature rich and versatile directory plugin you can find for WordPress. 
 
+[Download](https://wordpress.org/plugins/listplus/) | [Home Page](https://listpluswp.com/)
 
 ## Features
 * Unlimited listing types.
