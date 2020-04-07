@@ -1,12 +1,12 @@
 ## New Category
-In Admin Page goto Listings -> Categories
-Enter the required fields then click Add new.
+From Dashboard, Listings > Categories
+Fill all the necessary information in fields, then click the `Save` button.
 ![New cat](../images/cat-new.png)
 
 ## Manage Categories
-In Admin Page goto Listings -> Categories the the right column.
-You can see all the Categories here. Click to an item to edit or you can bulk action delete them.
+From Dashboard -> Listings > Categories  you can see all your categories in the right column.
+You can manipulate with the created categories such as edit, quick edit, delete, duplicate.
 
 ## Edit Category
-In Admin Page goto Listings -> Categories the the right column.  
-Click to a category to edit, it will take you to edit screen, just update new infomation and press "Update" button. 
+From Dashboard -> Listings > Categories you can see all your categories in the right column.
+In the categories page just click to an category which you want to edit, it will take you to the edit screen, remember to save the updating.

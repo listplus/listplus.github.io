@@ -1,28 +1,38 @@
 
 
 ## New Taxonomy
-In Admin Page goto Listings -> Taxonomies
-Enter the required fields then click Add new.
+From Dashboard, go to Listings > Taxonomies.
+
+It will take you to the Add New Taxonomy form, let's fill all necessary fields then click the “Add new Taxonomy” button to finish.
+
 
 ## Manage Taxonomies
-In Admin Page goto Listings -> Taxonomies the the right column.
-You can see all the Taxonomies here. Click to an item to edit or you can bulk action delete them.
+From Dashboard, go to Listing > Taxonomies, all taxonomies which you created will be in the right column. 
+
+You can do some manipulations with these taxonomies such as edit, quick edit, delete or view terms.
 
 ## Edit Taxonomy
-In Admin Page goto Listings -> Taxonomies the the right column.  
-Click to a category to edit, it will take you to edit screen, just update new infomation and press "Update" button. 
+- From Dashboard, go to Listings > Taxonomies
+- Hover over a taxonomy which you want to edit in the right column, then click the “Edit” button.
+- It will take you to the edit screen, just update the information and save the process. 
+
 
 ## Manage Taxonomy Terms
 
 ### View taxonomy terms
-In Taxonomies page click to **View Terms** to the the term of the taxonomy.
+From Dashboard, go to Listings -> Taxonomies, It will take you to  the Taxonomies page where all created taxonomies are listed in the right column.
+
+Go to the Taxonomy that you would like to view the term then click the `View terms` link.
+
 
 Example for **Amenities** taxonomy:
 ![Taxonomy terms](../images/tax-terms.gif)
 
 ### Adding new taxonomy term
 
-In the left column of taxonomy terms page, enter your new term name then hit button "Add new XXX" (XXX is taxonomy name).  For the example above is: **Add new Amenities**.
+You also can create a new taxonomy term by filling all fields in the left column then remember to save the process, this new term will appear in the right column.  
+
+For the example above is: **Add new Amenities**.
 
 Also you can set cusom icon or image for your new taxonomy term.
 

@@ -1,9 +1,11 @@
 ## Enable/Disable Report
-By default Report from is enabled for listing.  
-If you want to disable Report form just check to settings _Disable Report_ in section **Advanced** on edit/Add new listing page.
+By default Repost form is enabled for listing.
+
+If you want to disable the Report form, go to any Listing item then scrolling down to the `Advance section`, tick to the Disable `Report option`.
+
 
 ## Show the Report Form on frontend.
-On Listing Types page -> Add/Edit a type -> switch **Single Layout** tab: 
+On Listing Types page -> Add/Edit a listing type -> switch **Single Layout** tab: 
 Add **Listing header** item or **Actions** item to the display list to show "Report" button.
 
 

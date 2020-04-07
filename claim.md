@@ -1,8 +1,11 @@
 ## Enable/Disable Claim
-By default Claim from is enabled for listing.  
-If you want to disable Claim form just check to settings _Disable Claim_ in section **Advanced** on edit/Add new listing page.
+By default Claim form is enabled for listing.
+
+If you want to disable Claim form, go to any Listing item then scrolling down to the Advance section, tick to the Disable Claim option.
+
 
 ## Show the Claim Form on Frontend.
-To show Claim form.
+To show the Claim form, you must add the Listing Header item into the Single Layout tab for Listing Type.
+
 On Listing Types page -> Add/Edit a type -> switch **Single Layout** tab: 
 - Add **Listing header** item or **Actions** item to the display list to show "Claim" button.

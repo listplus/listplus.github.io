@@ -5,10 +5,10 @@
 ![](../images/settings-general.png)
  
 - Listing Page: The page to display listing acchives (such as categories, regions, search, filter,...).
-- Submit page: The page which display submit listing form.
+- Submit page: The page which displays the listing form.
 - Listing per page: Number listing items display per page.
-- Distace unit: Kilomet(km) or Mile(mi).
-- Default listing status: Default listing status when user submit new listing item.
+- Distance unit: Kilomet(km) or Mile(mi).
+- Default listing status: Default listing status when users submit a new listing item.
 
 ### Permalinks
 ![](../images/settings-permalinks.png)
@@ -20,10 +20,10 @@
 
 
 ### Google Map
-To use google map, Just put your google map API key into settings bellow.
+To use google map, Just put your google map API key into settings below.
 ![](../images/settings-gmap.png)
 
-Click [here](https://developers.google.com/maps/documentation/javascript/get-api-key) to lern how to get a Google Map API key.
+Click [here](https://developers.google.com/maps/documentation/javascript/get-api-key) to learn how to get a Google Map API key.
 
 
 ### reCAPTCHA
@@ -31,7 +31,7 @@ Click [here](https://developers.google.com/maps/documentation/javascript/get-api
 ![](../images/settings-captcha.png)
 - Enable?: Check this to enable reCAPTCHA.
 - Recaptcha key: Recaptcha key.
-- Recaptcha scret: Recaptcha scret.
+- Recaptcha secret: Recaptcha secret.
 
 
 When you register new reCAPTCHA site, you should select reCAPTCHA type as `reCAPTCHA v3`
@@ -46,7 +46,7 @@ Click [here](https://developers.google.com/recaptcha/docs/v3) see more details a
 ### Single Listing
 ![](../images/settings-listing-single.png)
 
-- Toggle description: Strip listing description if it too loong witth readmore/readless button.
+- Toggle description: Strip listing description if it is too long with a read more/readless button.
 - Show enquiry form title: Show enquiry form title from enquiry item.
 - Disable listing thumbnail?: Show/Hide featured image in single listing?.
 - Disable listing comments?: Show/Hide listings comments (like posts).
@@ -56,7 +56,7 @@ Click [here](https://developers.google.com/recaptcha/docs/v3) see more details a
 
 - Max rating score: Max rating score, default: 5 starts.
 - Reviews per page: Number review per page to show.
-- Default review status: Default staus when new review submitted.
+- Default review status: Default status when new review submitted.
 - Hide form title?: Hide review form title.
 
 ## Email Settings (Premium Only)
@@ -100,13 +100,13 @@ Click [here](https://developers.google.com/recaptcha/docs/v3) see more details a
 ![](../images/settings-account.png)
 
 ### Account
- - Account page: The page displaying user dashboar.
+ - Account page: The page displaying user dashboard.
 
-> If **WooCommerce** plugin activated this section will hide automaticity.
+> If the `WooCommerce` plugin is activated this section will hide automaticity..
 
 ### WooCommerce Integration
-> This section avalidable only when **WooCommerce** plugin activated.
+> This section is available only when the `WooCommerce` plugin is activated.
 
-- Purchase to claim?: User must purchase listing packages to claim new lisitng.
-- Purchase to submmit?: User must purchase listing packages to submit new lisitng.
+- Purchase to claim?: User must purchase listing packages to claim a new listing.
+- Purchase to submit?: User must purchase listing packages to submit a new listing.
 - Pricing page: The page to display pricing table.

@@ -1,7 +1,8 @@
 ## Introduction to Woocommerce
 
-WooCommerce is an open-source, completely customizable eCommerce platform for entrepreneurs worldwide. Go beyond the confines of traditional eCommerce solutions, and be limited only by your own imagination.
-MyListing can be used with Woocommerce to create an online store, it can also be used to sell listing packages (monetize listing submission), aswell as promoted packages (used to promote listings and push them at the top of the results).
+WooCommerce is an open-source, completely customizable eCommerce platform for entrepreneurs worldwide. Go beyond the confines of traditional eCommerce solutions, and be limited only by your own imagination. 
+
+ListPlus can be used with Woocommerce to create an online store, it can also be used to sell listing packages (monetize listing submission), as well as promoted packages (used to promote listings and push them at the top of the results).
 
 Woocommerce documentation can be found here:
 
@@ -24,16 +25,16 @@ https://docs.woocommerce.com
 ![](../images/wc-new-package.png)
 
 **Listing Package Options**
-- Listing limit: Number of listing user can submit.
+- Listing limit: Number of listings that users can submit.
 - Listing duration: How long listing available (day).
 - Mark as verified?: Auto mark verified when new listing submitted.
 - Feature listings?: Feature this listing item - it will be styled differently and sticky.
 - Use for claim?: Allow this package to be an option for claiming a listing.
-- Approved?: Auto set listing status to publish when listing submitted by custommer.
+- Approved?: Auto set listing status to publish when listing submitted by customer.
 - Listing types: Select listing types to limit, leave empty to allow all listing types..
-- Disable claim?: Disable claim for any listings submit using this package.
+- Disable claim?: Disable claim for any listings submitted using this package.
 
-**NOTE:** If you want to exclude listing package from products catalog.
+**NOTE:** If you want to exclude the listing package from products catalog.
 
 In the `Publish` metabox find `Catalog visibility` then select `Hidden`.
 

@@ -1,11 +1,9 @@
 ## New Region
-In Admin Page goto Listings -> Regions
-Enter the required fields then click Add new.
+From Dashboard, goto Listings -> Regions 
+Fill all the necessary information in fields, then click the `Add New Region` button.
 
 ## Manage Regions
-In Admin Page goto Listings -> Regions the the right column.
-You can see all the Regions here. Click to an item to edit or you can bulk action delete them.
+From Dashboard, goto Listings -> Regions, you can manipulate with the created regions such as edit, quick edit, delete, view.
 
 ## Edit Region
-In Admin Page goto Listings -> Regions the the right column.  
-Click to a category to edit, it will take you to edit screen, just update new infomation and press "Update" button. 
+From Dashboard, goto Listings -> Regions, you can see all your regions in the right column, just click to a region which you want to edit, it will take you to the edit screen, remember to save the updating.

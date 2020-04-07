@@ -1,27 +1,35 @@
-In Admin page head Listings -> Listing Types then click to "New Listing Type" button.
+**How to create the Listing types:**
+1. Log into Dashboard
+2. Negative to Listings > Listing Types
+3. Click to "New Listing Type" button.
 
-## General Settings
+## General
 ![Listing type general](../images/listing-type-general.png)
 
 * Plural Name: Listing Plural name.
 * Singular Name: Listing Singular name.
-* Icon: Listing type icon.
-* Status: Listing type status.
-* Status: Listing type status.
-* Slug: Listing type slug.
-* Description: Listing type description.
-* Taxonomy Highlights: The Taxonomy Highlights will show in the list of listings.
-* Category restrictions: Category restrictions for this listing type. All selected categories will be allowed. Leave empty to allow all.
+* Icon: you can choose one of the available icons from the dropdown list.
+* Status: You can select “Activate” to enable. Otherwise, select “Deactivate” to disable
+* Slug: Please add Slug for the Listing type and it will be easier and more useful in searching
+* Description: Write the description
+* Taxonomy Highlights: The Taxonomy Highlights will be shown in the list of listings.
+* Limit highlight terms: Enter the limit number of the shown highlight terms
+* Category restrictions: This section will help you to manage the category restrictions of Listing type. All selected categories will be allowed. If not, it will allow all.
+
 
 ## Field Builder
 Just click to the button in the right sidebar to add fields for your listings.
 There many defined fields such as: Title, description, price, price range, categories, region, email, map,...
 
-**Note**: There area taxonomy fields which have name started with "Tax:",
-When you create new taxonomy it listed automaticity here. If you add a field in the the fields list you will able select the terms of that taxonomy when you submmit new listing field.
+- Adding the defined fields for that Listing type: In the right sidebar, just clicking directly on `Title` or `Description` or `Publish Date` fields,… anything you want to add for The Listing type. All the selected fields will be shown in right area.
+
+
+> When a new Taxonomy created, it will appear with one more right-side button. Its name will be started with "Tax". When you add that button in the left-side list, the user will be able to select the terms of that tax. 
 
 
 ![Listing type fields](../images/listing-type-fields.png)
+
+- You also config the setting of these fields by clicking on `arrow down` button or clicking on `trash` button to delete them from the list.
 
 If you the preset fields do not match your requirements, So you can use custom fields like: text, checkbox, textara, select.
 
@@ -32,18 +40,27 @@ If you the preset fields do not match your requirements, So you can use custom f
 
 
 ## Single Layout
-This section control how your single listing display.
+This section will help you to manage fields to show on the main and sidebar column of the single page. It contains two sections: `Main Column` and `Sidebar column`.
 
 ![Listing type single](../images/listing-type-single.png)
 
-### Main Column
+*Main Column*
 The fields added in this section will display in main content.
 
-### Sidebar Column
+*Sidebar Column*
 The fields added in this section will display in the sidebar.
+
+– Adding fields for that Main and Sidebar column by clicking directly fields on the right sidebar `Listing Header`, `Tax: Business Highlights`, `Description` … anything you want to add for main and sidebar columns.
+For example: 
+
+![Listing type display](../images/listing-type-display.png)
+
+
+
+
 
 
 ## Filter
-Enter term id to create quick filter button when you're on listings page.
+Enter term id to create a quick filter button when you're on the listings page.
 
 ![Listing type filter](../images/listing-type-filter.png)
